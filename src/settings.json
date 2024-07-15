@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Crafting Future-Ready Solutions for the Modern World",
+        "title": "Unleashing Innovation: Transform Ideas into Reality"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleashing Innovation: Transform Ideas into Reality",
+  "subtitle": "Crafting Future-Ready Solutions for the Modern World"
+}
